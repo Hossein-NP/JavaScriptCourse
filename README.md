@@ -47,5 +47,5 @@ Each folder contains lesson files, examples, and practice challenges:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/javascript-learning-journey.git
+   git clone https://github.com/Hossein-NP/JavaScriptCourse.git
 
