@@ -107,14 +107,16 @@ JavaScript makes a page’s **behavior** adapt to devices and screen sizes.
   margin-top: 15px;
 ">
 
-## 2. Why Study JavaScript?
+## 🧩 2. Why Study JavaScript?
 
-JavaScript is one of the **3 languages** all web developers must learn:
+JavaScript is one of the **three core languages** that every web developer should learn:
 
-   - **HTML** to define the content of web pages
+- 🧱 **HTML** — defines the **structure** and **content** of web pages.  
+- 🎨 **CSS** — controls the **style** and **layout** of web pages.  
+- ⚙️ **JavaScript** — adds **interactivity**, **logic**, and **dynamic behavior** to web pages.
 
-   - **CSS** to specify the layout of web pages
+📘 **In short:**  
+HTML builds the skeleton, CSS dresses it up, and JavaScript brings it to life. ✨
 
-   - **JavaScript** to program the behavior of web pages
 
 </div>
