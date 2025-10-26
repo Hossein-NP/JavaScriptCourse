@@ -96,6 +96,7 @@ Although *responsiveness* mainly comes from CSS, JavaScript helps make **behavio
 JavaScript makes a page’s **behavior** adapt to devices and screen sizes.
 
 </div>
+
 ---
 
 <div style="
