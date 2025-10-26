@@ -27,7 +27,7 @@ Each folder contains lesson files, examples, and practice challenges:
 
 | # | Topic | Description |
 |---|--------|-------------|
-| 01 | [Variables](./01-Variables/) | Understanding variable declaration and scope |
+| 01 | [Introduction](https://github.com/Hossein-NP/JavaScriptCourse/blob/main/1-JavaScriptIntroduction/introduction.md) | Understanding variable declaration and scope |
 | 02 | [Data Types](./02-Data-Types/) | Working with strings, numbers, booleans, and more |
 | 03 | [Operators](./03-Operators/) | Arithmetic, comparison, and logical operators |
 | 04 | [Conditionals](./04-Conditionals/) | Using if, else, and switch statements effectively |
