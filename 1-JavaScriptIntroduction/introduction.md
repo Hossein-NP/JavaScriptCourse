@@ -3,12 +3,12 @@
 <div style="
   background-color: #f8fafc;
   padding: 16px 20px;
-  border-left: 6px solid #facc15;
+  border-left: 6px solid #00f7ffff;
   border-radius: 10px;
   margin-top: 8px;
 ">
 
-### 🧠 1. What is JavaScript?
+## 🧠 1. What is JavaScript?
 
 **JavaScript** is the **programming language of the Web**.  
 It allows developers to create **interactive**, **dynamic**, and **responsive** web pages.
@@ -94,5 +94,25 @@ Although *responsiveness* mainly comes from CSS, JavaScript helps make **behavio
 
 📍 **Summary:**  
 JavaScript makes a page’s **behavior** adapt to devices and screen sizes.
+
+</div>
+
+<div style="
+  background-color: #f8fafc;
+  padding: 16px 20px;
+  border-left: 6px solid #00f7ffff;
+  border-radius: 10px;
+  margin-top: 15px;
+">
+
+## 2. Why Study JavaScript?
+
+JavaScript is one of the **3 languages** all web developers must learn:
+
+   - **HTML** to define the content of web pages
+
+   - **CSS** to specify the layout of web pages
+
+   - **JavaScript** to program the behavior of web pages
 
 </div>
