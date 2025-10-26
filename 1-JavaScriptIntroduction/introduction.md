@@ -32,7 +32,7 @@ In short, JavaScript brings **life** to otherwise static web pages. ✨
   margin-top: 15px;
 ">
 
-### 💬 Interactive
+> ### 💬 Interactive
 
 The user can **interact** with the page, not just view it.  
 
@@ -57,7 +57,7 @@ JavaScript enables the page to **respond** to user actions.
   margin-top: 15px;
 ">
 
-### ⚡Dynamic
+> ### ⚡Dynamic
 
 The page can **update content or data** without a full refresh.  
 
@@ -80,10 +80,9 @@ JavaScript allows content and data to **change live** on the page.
   border-left: 6px solid #facc15;
   border-radius: 10px;
   margin-top: 15px;
-  margin-left: 40px;
 ">
 
-### 📱Responsive
+> ### 📱Responsive
 
 The page **adapts** to different screen sizes and devices (mobile, tablet, desktop).  
 Although *responsiveness* mainly comes from CSS, JavaScript helps make **behavior** responsive too.  
