@@ -29,7 +29,7 @@ In short, JavaScript brings **life** to otherwise static web pages. ✨
   padding: 16px 20px;
   border-left: 6px solid #facc15;
   border-radius: 10px;
-  margin-top: 15px;
+  margin-top: 8px;
 ">
 
 > ### 💬 Interactive
@@ -54,7 +54,7 @@ JavaScript enables the page to **respond** to user actions.
   padding: 16px 20px;
   border-left: 6px solid #facc15;
   border-radius: 10px;
-  margin-top: 15px;
+  margin-top: 8px;
 ">
 
 > ### ⚡Dynamic
@@ -79,7 +79,7 @@ JavaScript allows content and data to **change live** on the page.
   padding: 16px 20px;
   border-left: 6px solid #facc15;
   border-radius: 10px;
-  margin-top: 15px;
+  margin-top: 8px;
 ">
 
 > ### 📱Responsive
