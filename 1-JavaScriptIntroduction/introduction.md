@@ -80,6 +80,7 @@ JavaScript allows content and data to **change live** on the page.
   border-left: 6px solid #facc15;
   border-radius: 10px;
   margin-top: 15px;
+  margin-left: 40px;
 ">
 
 ### 📱Responsive
@@ -89,7 +90,7 @@ Although *responsiveness* mainly comes from CSS, JavaScript helps make **behavio
 
 **Examples:**
 - A mobile navigation menu that opens and closes using JavaScript.  
-- An image gallery that slides horizontally on smaller screens.  
+- An image gallery that slides on mobile.
 - Adjusting layout or element size based on browser width.  
 
 📍 **Summary:**  
