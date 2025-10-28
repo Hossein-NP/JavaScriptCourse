@@ -18,7 +18,8 @@ With JavaScript, you can:
 - 🧮 **Process, calculate, and validate data** directly in the browser.  
 - 🔄 **Update content dynamically** without reloading the page.
 
-In short, JavaScript brings **life** to otherwise static web pages. ✨
+📘 **In short:**
+JavaScript brings **life** to otherwise static web pages. ✨
 
 </div>
 
