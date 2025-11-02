@@ -8,7 +8,31 @@
   margin-top: 8px;
 ">
 
-## 🧠 1. What is JavaScript?
+## 🧠 1.Script concept
+
+The word **Script** in English means:
+
+> A written text that is intended to be executed or performed.
+
+In the computer world, a **“script”** refers to programs that:
+
+are shorter and simpler than large software programs,
+
+are typically used to automate tasks or add behavior to other programs,
+
+and are interpreted by another program, rather than compiled like C or Java.
+
+</div>
+
+<div style="
+  background-color: #f8fafc;
+  padding: 16px 20px;
+  border-left: 6px solid #00f7ffff;
+  border-radius: 10px;
+  margin-top: 8px;
+">
+
+## 🧠 2. What is JavaScript?
 
 **JavaScript** is the **programming language of the Web**.  
 It allows developers to create **interactive**, **dynamic**, and **responsive** web pages.
