@@ -12,15 +12,13 @@
 
 The word **Script** in English means:
 
-> A written text that is intended to be executed or performed.
+> - A written text that is intended to be executed or performed.
 
 In the computer world, a **“script”** refers to programs that:
 
-are shorter and simpler than large software programs,
-
-are typically used to automate tasks or add behavior to other programs,
-
-and are interpreted by another program, rather than compiled like C or Java.
+> - are shorter and simpler than large software programs,
+> - are typically used to automate tasks or add behavior to other programs,
+> - and are interpreted by another program, rather than compiled like C or Java.
 
 </div>
 
