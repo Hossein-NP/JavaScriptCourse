@@ -8,7 +8,7 @@
   margin-top: 8px;
 ">
 
-## 🧠 1.Script concept
+## 🧠 1. Script concept
 
 The word **Script** in English means:
 
